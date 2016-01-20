@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="php">
+<id>Tmt</id>
+<name>Tmt</name>
+<url>http://www.tusay.net/</url>
+<note>Tblog-2</note>
+<description>简洁自适应主题，简单版本</description>
+<path></path>
+<include></include>
+<level>1</level>
+<author>
+  <name>涂涂研版</name>
+  <email>tusaynet@126.com</email>
+  <url>http://www.tusay.net</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>140614</adapted>
+<version>1.1</version>
+<pubdate>2014-09-27</pubdate>
+<modified>2015-05-01</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</theme>

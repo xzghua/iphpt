@@ -1,0 +1,6 @@
+﻿
+
+#div1{height:350px;width:100px; position:relative; margin:10px auto;}
+#div1 a{position:absolute;top:0px;left:0px;color:pink;font-weight:bold;padding:3px 6px;}
+#div1 a:hover{border:1px solid #eee;background:#000;border-radius:5px;}
+	

@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+.bl_form {
+	margin: 20px 0;
+}
+
+.lb_wrap .lb_label.top, .lb_wrap .lb_label.bottom {
+	left: 15px !important;
+}
+.lb_wrap .lb_label.left {
+	left: 10;
+}
+.lb_label {
+	font-weight: bold;
+	color: #999;
+}
+
